@@ -1,0 +1,71 @@
+
+.section-1
+{  background-color: rgb(31, 0, 35);
+  }
+
+.section-1 h2{
+  font-size: 48px;
+  font-family: "Times New Roman";
+  color: #fff;
+  line-height: 1.2;
+  margin-bottom: 180px;
+  }
+.section-1 h1 {
+  font-size: 48px;
+  font-family: "Minion Pro";
+   color:#fff;
+  line-height: 1.2;
+  margin-bottom: 50px;
+  }
+  .section-1 p {
+  font-size: 14px;
+  font-family: "Montserrat";
+ color:#fff;
+  line-height: 1.786;
+  margin-bottom: 35px;
+  }
+  .section-1 .button {
+  text-decoration: none; 
+  font-size: 14px;
+  font-family: "Montserrat";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.786;
+   padding: 20px 31px 20px 31px; 
+    border-radius: 100px;
+    background-image: -moz-linear-gradient( -45deg, rgb(37,109,194) 0%, rgb(16,213,219) 100%);
+  background-image: -webkit-linear-gradient( -45deg, rgb(37,109,194) 0%, rgb(16,213,219) 100%);
+  background-image: -ms-linear-gradient( -45deg, rgb(37,109,194) 0%, rgb(16,213,219) 100%);
+ }
+.section-1 img{
+
+  width: 767px;
+  height: 784px;
+  
+}
+
+}
+
+  
+  .section-2 h2{
+  font-size: 25px;
+  font-family: "Montserrat";
+  color: rgb(51, 51, 51);
+  line-height: 1.2;
+  
+    }
+
+/*.section-2  .icons
+{
+  background-image: -moz-linear-gradient( 90deg, rgb(37,109,194) 2%, rgb(16,213,219) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(37,109,194) 2%, rgb(16,213,219) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(37,109,194) 2%, rgb(16,213,219) 100%);
+  
+}*/
+.section-2 h3{
+  font-size: 16px;
+  font-family: "Montserrat";
+  color: rgb(37, 109, 194);
+  line-height: 1.2;
+  }
+
